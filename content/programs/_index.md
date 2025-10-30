@@ -2,8 +2,6 @@
 title: "Programs & People"
 ---
 
-# Programs & People
-
 ## Programs
 - **BS in Computer Science** — foundations in algorithms, systems, and software.
 - **Minor in CS** — a flexible option to pair with another major.

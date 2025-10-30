@@ -19,6 +19,7 @@ relativeURLs = true
   showBreadCrumbs = true
   # small footer note
   customFooter = "Student project for a class assignment. Not an official Northwestern website."
+  disableScrollToTop = true
 
 [menu]
   [[menu.main]]

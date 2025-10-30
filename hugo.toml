@@ -1,0 +1,38 @@
+baseURL = "https://ishaanjalan2027.github.io/quickstart/"
+languageCode = "en-us"
+title = "Northwestern Computer Science — Student Project"
+theme = "PaperMod"
+
+# safer for GitHub Pages under a subpath
+canonifyURLs = true
+relativeURLs = true
+
+[params]
+  description = "A small, student-made ‘business card’ site about a CS department."
+  defaultTheme = "auto"
+  showReadingTime = false
+  showBreadCrumbs = true
+  # small footer note
+  customFooter = "Student project for a class assignment. Not an official Northwestern website."
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "programs"
+    name = "Programs & People"
+    url = "programs/"
+    weight = 2
+  [[menu.main]]
+    identifier = "news"
+    name = "News"
+    url = "news/"
+    weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "contact/"
+    weight = 4

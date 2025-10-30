@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Northwestern Computer Science on Northwestern Computer Science — Student Project</title>
+    <link>http://localhost:1313/quickstart/</link>
+    <description>Recent content in Northwestern Computer Science on Northwestern Computer Science — Student Project</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/quickstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spotlight: AI &amp; Systems</title>
+      <link>http://localhost:1313/quickstart/news/ai-systems/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/news/ai-systems/</guid>
+      <description>&lt;h1 id=&#34;spotlight-ai--systems&#34;&gt;Spotlight: AI &amp;amp; Systems&lt;/h1&gt;
+&lt;p&gt;Departments typically pair &lt;strong&gt;AI&lt;/strong&gt; progress with solid &lt;em&gt;systems&lt;/em&gt; work to make research practical at scale.&lt;/p&gt;
+&lt;h2 id=&#34;highlights&#34;&gt;Highlights&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Model training and deployment practices&lt;/li&gt;
+&lt;li&gt;Reliability, scalability, and performance&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Student Groups in CS</title>
+      <link>http://localhost:1313/quickstart/news/student-groups/</link>
+      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/quickstart/news/student-groups/</guid>
+      <description>&lt;h1 id=&#34;student-groups-in-cs&#34;&gt;Student Groups in CS&lt;/h1&gt;
+&lt;p&gt;Clubs and project teams are a good way to learn beyond class. Many students join coding groups, women-in-tech orgs, and project teams early on.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tip:&lt;/strong&gt; Try a meeting or two and see what fits.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

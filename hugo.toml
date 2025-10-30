@@ -5,7 +5,7 @@ theme = "PaperMod"
 
 # safer for GitHub Pages under a subpath
 canonifyURLs = true
-relativeURLs = true
+relativeURLs = false
 
 [caches]
   [caches.images]

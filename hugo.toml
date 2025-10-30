@@ -7,6 +7,11 @@ theme = "PaperMod"
 canonifyURLs = true
 relativeURLs = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
+
 [params]
   description = "A small, student-made ‘business card’ site about a CS department."
   defaultTheme = "auto"
